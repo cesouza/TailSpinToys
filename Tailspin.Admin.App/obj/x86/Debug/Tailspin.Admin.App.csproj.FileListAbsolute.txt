@@ -1,0 +1,27 @@
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\bin\Debug\Tailspin.Admin.App.exe.config
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\bin\Debug\Tailspin.Admin.App.exe
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\bin\Debug\Tailspin.Admin.App.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\MainWindow.baml
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\App.g.cs
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App_MarkupCompile.cache
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.g.resources
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.Properties.Resources.resources
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.csproj.GenerateResource.Cache
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.exe
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.csprojResolveAssemblyReference.cache
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\bin\Debug\Tailspin.Admin.App.exe.config
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\bin\Debug\Tailspin.Admin.App.exe
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\bin\Debug\Tailspin.Admin.App.pdb
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.csprojAssemblyReference.cache
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\MainWindow.baml
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\MainWindow.g.cs
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\App.g.cs
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App_MarkupCompile.cache
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.g.resources
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.Properties.Resources.resources
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.csproj.GenerateResource.cache
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.csproj.CoreCompileInputs.cache
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.exe
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Admin.App\obj\x86\Debug\Tailspin.Admin.App.pdb

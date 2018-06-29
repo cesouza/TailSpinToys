@@ -1,0 +1,39 @@
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\bin\Debug\Tailspin.Model.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\bin\Debug\Tailspin.Model.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\bin\Debug\Tailspin.Model.dll.CodeAnalysisLog.xml
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\bin\Debug\Tailspin.Model.dll.lastcodeanalysissucceeded
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\bin\Debug\Tailspin.Infrastructure.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\bin\Debug\Tailspin.Infrastructure.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\obj\Debug\Tailspin.Model.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\obj\Debug\Tailspin.Model.Messages.resources
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\obj\Debug\Tailspin.Model.Properties.Resources.resources
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\obj\Debug\Tailspin.Model.csproj.GenerateResource.Cache
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\obj\Debug\Tailspin.Model.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Model\obj\Debug\Tailspin.Model.pdb
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\Tailspin.Model.dll.config
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\Tailspin.Model.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\Tailspin.Model.pdb
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\Tailspin.Model.dll.CodeAnalysisLog.xml
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\Tailspin.Model.dll.lastcodeanalysissucceeded
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\Tailspin.Infrastructure.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.Mvc.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.Razor.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.WebPages.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\Tailspin.Infrastructure.pdb
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\Tailspin.Infrastructure.dll.config
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.Mvc.xml
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.Razor.xml
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.WebPages.xml
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\obj\Debug\Tailspin.Model.csprojAssemblyReference.cache
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\obj\Debug\Tailspin.Model.Messages.resources
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\obj\Debug\Tailspin.Model.Properties.Resources.resources
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\obj\Debug\Tailspin.Model.csproj.GenerateResource.cache
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\obj\Debug\Tailspin.Model.csproj.CoreCompileInputs.cache
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\obj\Debug\Tailspin.Model.csproj.CopyComplete
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\obj\Debug\Tailspin.Model.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Model\obj\Debug\Tailspin.Model.pdb

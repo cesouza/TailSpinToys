@@ -1,0 +1,15 @@
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Schema\sql\debug\Tailspin.Schema.dacpac
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Schema\sql\debug\Tailspin.Schema.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Schema\sql\debug\Tailspin.Schema.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Schema\obj\Debug\Model.xml
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Schema\obj\Debug\refactor.xml
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Schema\obj\Debug\postdeploy.sql
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Schema\obj\Debug\predeploy.sql
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Schema\obj\Debug\Tailspin.Schema.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Schema\obj\Debug\Tailspin.Schema.pdb
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Schema\sql\debug\Tailspin.Schema.dacpac
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Schema\sql\debug\Tailspin.Schema.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Schema\sql\debug\Tailspin.Schema.pdb
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Schema\obj\Debug\Tailspin.Schema.sqlprojAssemblyReference.cache
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Schema\obj\Debug\Tailspin.Schema.dll
+C:\Estudos\FIAP\TailspinToys\Iteration\Tailspin.Schema\obj\Debug\Tailspin.Schema.pdb
